@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Gandalf for reward</title>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="Gandalf_party.css">
+</head>
+<body>
+	<div class="fellow">
+		<div class="portrait"><img src="integration_gandalf.png" alt="Gandalf_portrait">
+		</div>
+		<div class="reward">
+			<p>reward <span class="amount">1000 <br></span>golden coins</p>
+		</div>
+		<div class="fellow_name">Gandalf</div>
+		
+	</div>
+
+
+</body>
+</html>

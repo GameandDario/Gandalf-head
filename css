@@ -1,0 +1,59 @@
+.fellow {
+	position: relative;
+	margin: auto;
+	margin-top: 25px;
+	width: 50%;
+}
+
+.portrait {
+	opacity: .5;
+	transition-property: opacity;
+	transition-duration: 1s;
+}
+
+.reward {
+	margin-left: 25px;
+	margin-top: 40px;
+	position: absolute;
+	top:3px;
+	width: 450px;
+	height: 120px;
+	background-color: hsla(0, 0%, 100%, 50%);
+	border-radius: 10px;	
+}
+
+p {
+	position: relative;
+	margin : auto;
+	font-size: 2.5em;
+	font-family: verdana;
+	text-align: center;
+	padding: 10px;
+}
+.amount {
+	color: orange;
+}
+
+.fellow_name {
+	position: relative;
+	left: 140px;
+	top: -240px;	
+	font-size: 3.5em;
+	font-family: verdana;
+	color: hsl(0, 0%, 100%);
+
+}
+
+.fellow:hover .portrait {
+	opacity: 1;
+}
+
+.fellow:hover .reward{
+	visibility: hidden;
+}
+
+.fellow:hover .fellow_name {
+	left: 200px;
+	top: -130px;
+	font-size: 1.5em;
+} 

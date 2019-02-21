@@ -7,7 +7,7 @@
 </head>
 <body>
 	<div class="fellow">
-		<div class="portrait"><img src="integration_gandalf.png" alt="Gandalf_portrait">
+		<div class="portrait"><img src="https://tof.cx/images/2019/01/28/d1b999f7518e633dce872d75433b5532.png" alt="Gandalf_portrait">
 		</div>
 		<div class="reward">
 			<p>reward <span class="amount">1000 <br></span>golden coins</p>
